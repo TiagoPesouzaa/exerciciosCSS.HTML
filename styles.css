@@ -1,0 +1,31 @@
+.div_A {
+    background-color: #a89989;
+    width: 500px;
+    height: 500px;
+}
+
+.div_B {
+    background-color: #770097;
+    width: 250px;
+    height: 250px;
+}
+
+.div_parag_C {
+    color: rgb(165, 182, 14);
+    background-color: rgb(201, 80, 155);
+    font-size: 25px;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.div_D {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(77, 34, 66);
+} 
+
+.div_E {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(12, 164, 234);
+}
